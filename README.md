@@ -1,5 +1,5 @@
 # 8AM-Devops-AUG
 Repo for Devops training purpose
 
-This is from GIT , ADDED Tag
+This is from GIT , ADDED Tag V1.0.2
 
