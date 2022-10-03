@@ -7,4 +7,4 @@ For Tagging
 
 edited by user
 
-welcome github
+welcome GITHUB
